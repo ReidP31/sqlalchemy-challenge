@@ -105,4 +105,5 @@ venv.bak/
 
 # Misc.
 *.DS_Store
+*.ipynb_checkpoints
 
